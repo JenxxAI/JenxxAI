@@ -1,42 +1,39 @@
-Carlos Miguel Torres
-Hello! I'm Carlos Miguel Torres, a passionate student pursuing my Bachelor of Science in Information Technology (BSIT) at Northern Negros State College of Science and Technology (NONESCOST). I'm excited about the possibilities that technology brings and constantly strive to expand my knowledge and skills in this field.
+Hello! I'm Carlos Miguel Torres, a passionate student pursuing my Bachelor of Science in Information Technology (BSIT) at State University of Northern Negros (SUNN) (formerly known as Northern Negros State College of Science and Technology - NONESCOST). I am deeply interested in web development, database management, and system integration, constantly expanding my knowledge and skills in these areas.  
 
-Education
+Education  
 
-Northern Negros State College of Science and Technology (NONESCOST)
-Bachelor of Science in Information Technology
+State University of Northern Negros (SUNN)  
+Bachelor of Science in Information Technnology (BSIT)  
 
-Interests
-As a BSIT student, I have a strong interest in various aspects of information technology. Some of my areas of interest include:
+Interests & Skills  
 
-Software Development: I enjoy coding and have a passion for developing software applications. I love the process of creating something functional and user-friendly.
-Web Development: I find web development fascinating, and I'm enthusiastic about building interactive and visually appealing websites. I have experience with HTML, CSS, JavaScript, and other web technologies.
-Mobile App Development: I'm particularly interested in mobile app development and enjoy creating innovative and user-centric mobile applications for iOS and Android platforms. I have experience with [mention any specific frameworks or technologies you have worked with].
-Networking and Security: I have a growing interest in networking and cybersecurity. I understand the importance of secure systems and enjoy learning about the best practices to protect digital assets.
-Projects
-I actively engage in projects that allow me to apply my technical skills and gain practical experience. Some of the projects I have worked on include:
+Web Development & Software Engineering  
+- Experienced in PHP (Procedural & OOP) and the Modular Approach in programming  
+- Skilled in HTML, CSS, JavaScript, and frameworks like Bootstrap  
+- Database Management using MySQL, including CRUD operations, relationships, and optimization  
+- API Integration for web-based systems (Face API, SMS, QR Code)  
 
-1. **JENX Cafe Website**  
-   Description: A website showcasing my future cafe, JENX Cafe. It includes information about the cafe, the menu, and a contact form.  
-   Technologies Used: HTML, CSS, JavaScript  
+System Management & Troubleshooting  
+- Knowledgeable in PC troubleshooting, formatting, and installation  
+- Experienced in software installation, including cracked software  
+- Familiar with networking concepts and system security best practices  
 
-2. **NONESCOST SIAS Front End**  
-   Description: An initiative to enhance the front-end design and user experience of the Northern Negros State College of Science and Technology (NONESCOST) Screening, Identification, Assessment, and Support (SIAS) system. The goal is to create an intuitive and visually appealing interface that streamlines the process of identifying and supporting students in need.  
-   Technologies Used: HTML, CSS, JavaScript  
+Projects & Experience  
 
-3. **NONESCOST AI Chatbot App**  
-   Description: An AI-powered chatbot application designed to assist students with information about Northern Negros State College of Science and Technology (NONESCOST). The chatbot provides answers to frequently asked questions and helps navigate campus resources.  
-   Technologies Used: [List the technologies and frameworks used]  
-Skills
-Programming Languages: [List programming languages you have experience with, such as Python, Java, C++, etc.]
-Web Development: [List web technologies you are familiar with, such as HTML, CSS, JavaScript, etc.]
-Mobile App Development: [Mention specific frameworks or technologies you have experience with, such as React Native, Flutter, etc.]
-Networking: [Highlight any networking concepts or protocols you have studied]
-Problem-Solving: [Emphasize your ability to analyze and solve complex problems]
-Get in Touch
-I'm always eager to connect with fellow students, professionals, and technology enthusiasts. If you'd like to reach out or discuss any exciting opportunities, feel free to contact me through the following channels:
+1. Enrollment System  
+- A web-based enrollment system that allows students to apply for admission, log in, and track application status, with admin approval functionality.  
+- Technologies Used: PHP (OOP, Modular Approach), MySQL, JavaScript  
 
-Email: torjarica@gmail.comm
-LinkedIn: (https://web.facebook.com/luke.emmanuel.7712)
-GitHub: (https://github.com/JenxxAI)
-Thank you for visiting my profile, and I look forward to connecting with you!
+2. Real-Time Facial Recognition Attendance System  
+- Developed a student monitoring system using Face API for attendance tracking in school activities.  
+- Technologies Used: PHP, MySQL, JavaScript, Face API  
+
+3. JENX Cafe Website  
+- A website showcasing my future JENX Cafe, featuring a menu, contact form, and business information.  
+- Technologies Used: HTML, CSS, JavaScript  
+
+Get in Touch  
+
+Email: torjarica@gmail.com  
+GitHub: github.com/JenxxAI  
+Facebook: facebook.com/luke.emmanuel.7712  
