@@ -45,8 +45,12 @@ A student monitoring system that uses facial recognition technology to record at
 Technologies Used:
 PHP, MySQL, JavaScript, Facial Recognition API
 
+- AI-Powered Menu Recommender Base on available ingredients using Image recognition
+  
+Technologies Used 
+Python (Flask), Roboflow, Render, PWA
 
-## 🎯 Current Focus
+Current Focus
 - Backend web development using PHP & MySQL
 - System integration and API-based solutions
 - Networking fundamentals and **CCNA (200-301) preparation**
@@ -54,11 +58,11 @@ PHP, MySQL, JavaScript, Facial Recognition API
 
 ---
 
-## 📫 Get in Touch
+Get in Touch
 - 📧 Email: **torjarica@gmail.com**
 - 💻 GitHub: **https://github.com/JenxxAI**
 - 🌐 Facebook: **https://facebook.com/luke.emmanuel.7712**
 
 ---
 
-⭐ *I am open to OJT / internship opportunities where I can apply my skills, learn from industry professionals, and grow as an IT practitioner.*
+*I am open to OJT / internship opportunities where I can apply my skills, learn from industry professionals, and grow as an IT practitioner.*
