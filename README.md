@@ -1,89 +1,110 @@
-# Hi, I'm Carlos Miguel Torres 👋
 
-I am a **4th year BSIT student** at the State University of Northern Negros (SUNN), currently on my **On-the-Job Training (OJT)** as a **Software Quality Engineer Intern at Growsari Enterprise Inc.**, and graduating this **June 2026**.
 
-I have a strong interest in **web development**, **database systems**, **QA engineering**, and **modern system integration using API-driven architectures**. I enjoy building practical solutions and ensuring software quality through structured testing and documentation. I am continuously improving my skills in backend development, RESTful API integration, database-centric system design, and software quality assurance.
+  
 
----
 
-## 💼 Experience
 
-**Software Quality Engineer Intern** · Growsari Enterprise Inc. *(OJT)*
-- Manual testing of web and mobile applications
-- API testing and validation
-- Bug reporting and defect tracking
-- QA documentation and test case creation
-- Regression testing to ensure software stability
+
+
+  Typing SVG
+
+
 
 ---
 
-## 🎓 Education
+### 👋 About Me
 
-**State University of Northern Negros (SUNN)**
-Bachelor of Science in Information Technology (BSIT)
-*4th Year Student · Expected Graduation: June 2026*
+- 🎓 4th Year BSIT · State University of Northern Negros (SUNN)
+- 🧪 QA Engineering Intern @ **Growsari Enterprise Inc.**
+- 🌱 Learning: `Playwright` · `n8n` · `CCNA (200-301)`
+- 🚀 Graduating: **June 2026**
+- 📍 Negros Occidental, Philippines 🇵🇭
 
 ---
 
-## 🛠️ Skills & Technologies
+### 🛠️ Tech Stack
 
-**Quality Assurance**
-- Manual Testing
-- Regression Testing
-- API Testing
-- Bug Reporting & Defect Tracking
-- QA Documentation & Test Case Writing
+**QA & Testing**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 **Web Development**
-- PHP · Python · HTML · CSS · JavaScript
-- Bootstrap Framework
-- MySQL Database Management
-- API Integration for Web-Based Systems
-- Ollama · Roboflow · n8n *(Currently Learning)*
 
-**System Management & Technical Support**
-- Troubleshooting and maintenance of PCs, laptops, and peripherals
-- OS installation, configuration, and optimization (Windows 10/11)
-- Hardware upgrades (RAM, SSD/HDD, keyboards, displays)
-- Basic networking fundamentals (LAN, IP addressing, TCP/IP)
-- System security best practices
-- Mobile device repair and basic troubleshooting
-- Technical support and end-user assistance
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+**Tools & Platforms**
 
-## 🚀 Projects
-
-**📋 Negros CET Survey & Reviewer**
-A community-driven web app for gathering college entrance exam data from students in Negros Occidental, with a real-time analytics dashboard.
-> Next.js · Supabase · Tailwind CSS · Vercel
-
-**🎓 Enrollment System**
-A web-based enrollment system that enables students to apply for admission, log in, and monitor their application status, with an admin-side approval workflow.
-> PHP (OOP, Modular Approach) · MySQL · JavaScript
-
-**👁️ Real-Time Facial Recognition Attendance System**
-A student monitoring system that uses facial recognition technology to record attendance during school activities.
-> PHP · MySQL · JavaScript · Facial Recognition API
-
-**🍽️ AI-Powered Menu Recommender**
-Recommends meals based on available ingredients using image recognition technology. Deployed as a Progressive Web App.
-> Python (Flask) · Roboflow · Render · PWA
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🎯 Current Focus
+### 🚀 Featured Projects
 
-- 🎯 Current Focus: **OJT at Growsari Enterprise Inc.** as Software Quality Engineer Intern
-- Backend web development using PHP & MySQL
-- System integration and API-based solutions
-- Networking fundamentals & **CCNA (200-301) preparation**
-- Building real-world, practical IT projects
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 📋 **Negros CET Survey** | Community web app for CET data + live analytics | Next.js · Supabase · Tailwind |
+| 🎓 **Enrollment System** | Student admission & admin approval workflow | PHP · MySQL · JS |
+| 👁️ **Facial Recognition Attendance** | Auto-attendance using facial recognition | PHP · MySQL · Facial Rec API |
+| 🍽️ **AI Menu Recommender** | Meal suggestions from image recognition (PWA) | Flask · Roboflow · Render |
 
 ---
 
-## 📬 Get in Touch
+### 📊 GitHub Stats
 
-- 📧 Email: **torjarica@gmail.com**
-- 💻 GitHub: **https://github.com/JenxxAI**
-- 🌐 Facebook: **https://facebook.com/luke.emmanuel.7712**
+
+  
+  
+
+
+
+
+  
+
+
+
+---
+
+### 🏆 Trophies
+
+
+  
+
+
+
+---
+
+### 🐍 Contribution Snake
+
+
+  
+
+
+
+---
+
+### 📬 Connect
+
+
+  
+  
+  
+
+
+
+
+
+  
+
+
+
+---
