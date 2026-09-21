@@ -1,101 +1,95 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0F6E56&height=200&section=header&text=Carlos%20Miguel%20Torres&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20Intern%20%7C%20BSIT%20Student%20%7C%20Builder&descAlignY=58&descAlign=50" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Carlos Miguel Torres — Hardware roots. Software curiosity." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Software+Quality+Engineer+Intern+%F0%9F%A7%AA;BSIT+Student+%40+SUNN+%F0%9F%8E%93;Web+Developer+%7C+API+Tester+%F0%9F%94%97;Building+real-world+IT+solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://carlos-torres-portfolio.vercel.app"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/carlos-miguel-torres-2644a9332/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:torjarica@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.facebook.com/JenxxAi">Facebook</a>
 </p>
+
+## From the inside out.
+
+I'm **Carlos Miguel Torres**, a BSIT graduate from **State University of Northern Negros (SUNN)**, based in Negros Occidental, Philippines.
+
+My path started with university computer labs: troubleshooting hardware, maintaining computers, and helping with networks and servers. That curiosity carried me into software quality, automation, and now production support.
+
+I also build full-stack side projects for Filipino community, school, church, and small-business use cases—with AI as part of my development workflow. Outside code, I explore graphic design and ways to make repetitive work a little less repetitive.
+
+**Currently:** Technical Support Engineer at **GrowSari**, since **August 31, 2026**.  
+**Next direction:** building toward **DevOps and cloud engineering**.
+
+## The journey so far
+
+| When | Chapter |
+| --- | --- |
+| **Jun 2024 – Jun 2026** | **Tech Support Volunteer · SUNN** — Supported university offices and computer labs across hardware, software, networks, and servers alongside my BSIT studies. |
+| **Late Jan – late Apr 2026** | **QA Engineer Intern · GrowSari** — Joined the Operations squad, testing Last Mile and Backhaul systems and documenting test cases, findings, and evidence. |
+| **Late Apr – late Aug 2026** | **Extended QA Internship · GrowSari** — Continued with the team, expanded web admin testing, and explored Playwright, QApilot, and n8n-assisted workflows. |
+| **Jun 2026** | **Graduated with a BSIT from SUNN** and received the **Outstanding Intern Award**. |
+| **Aug 31, 2026 – present** | **Technical Support Engineer · GrowSari** — Moved from staging-focused QA work into supporting production systems as a regular employee. |
+
+## What I work with
+
+Different tools, one habit: understand the problem before choosing the fix.
+
+| Area | Experience & tools |
+| --- | --- |
+| **Support & troubleshooting** | PC hardware, software issues, computer lab maintenance, network/server support, production troubleshooting |
+| **Quality & investigation** | Manual and regression testing, test cases and evidence, Postman, Playwright, QApilot, Jira, Testpad, Android Studio, HTTP Toolkit, Swagger |
+| **Web & data** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, PHP, Python, MySQL, Supabase |
+| **Automation & delivery** | n8n workflows, test data automation, GitHub, Vercel |
+| **Creative work** | Freelance graphic design, visual experiments, workflow documentation |
+
+## Things I'm building
+
+A mix of side projects and concepts, connected by practical problems and local stories.
+
+| Project | The idea | Tools / stage |
+| --- | --- | --- |
+| **Pondu** | A paluwagan tracker for community contributions. | React · Vite · Supabase |
+| **Pinoy Luto** | An AI recipe app with Filipino kitchens in mind. | Next.js · AI |
+| **Chicken Pastil-Anne** | An ordering system connected to messaging and automated workflows. | Messenger · n8n |
+| **LinkGuard** | A URL scanner exploring safer everyday browsing. | Security-focused side project |
+| **PCBlueprint.io** | A hardware-focused side project. | Project details coming soon |
+| **Computer Lab Monitoring System** | Monitoring built around a school computer lab use case. | School systems |
+| **Bayani ni Andoy** | Exploring Filipino storytelling through a game. | Game concept |
+
+<details>
+<summary><strong>More projects from my learning journey</strong></summary>
+
+<br />
+
+| Project | Focus | Stack |
+| --- | --- | --- |
+| **Negros CET Survey** | Community survey data and live analytics | Next.js · Supabase · Tailwind CSS |
+| **Enrollment System** | Student admission and admin approval workflows | PHP · MySQL · JavaScript |
+| **Facial Recognition Attendance** | Automated attendance | PHP · MySQL · Facial recognition API |
+| **AI Menu Recommender** | Meal suggestions from image recognition | Flask · Roboflow · Render |
+
+</details>
+
+[Explore my portfolio →](https://carlos-torres-portfolio.vercel.app)
+
+## What comes next
+
+- Deepen my understanding of the production systems I support.
+- Build on my QA experience with useful automation and clearer documentation.
+- Develop the infrastructure foundations for a future in DevOps and cloud.
+- Keep building for the communities around me.
+
+## Let's connect
+
+Have a project, a tricky problem, or notes to compare?
+
+**[torjarica@gmail.com](mailto:torjarica@gmail.com)**  
+[LinkedIn](https://www.linkedin.com/in/carlos-miguel-torres-2644a9332/) · [Facebook](https://www.facebook.com/JenxxAi) · [Portfolio](https://carlos-torres-portfolio.vercel.app)
 
 ---
 
-### 👋 About Me
+*There's still room for improvement—and plenty left to explore.*
 
-- 🎓 4th Year BSIT · State University of Northern Negros (SUNN)
-- 🧪 QA Engineering Intern @ **Growsari Enterprise Inc.**
-- 🌱 Learning: `Playwright` · `n8n` · `CCNA (200-301)`
-- 🚀 Graduating: **June 2026**
-- 📍 Negros Occidental, Philippines 🇵🇭
-
----
-
-### 🛠️ Tech Stack
-
-**QA & Testing**
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![HTTP Toolkit](https://img.shields.io/badge/HTTP%20Toolkit-0B1F3A?style=for-the-badge&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Testpad](https://img.shields.io/badge/Testpad-2C7BE5?style=for-the-badge&logoColor=white)
-
-**Web Development**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Tools & Platforms**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 📋 **Negros CET Survey** | Community web app for CET data + live analytics | Next.js · Supabase · Tailwind |
-| 🎓 **Enrollment System** | Student admission & admin approval workflow | PHP · MySQL · JS |
-| 👁️ **Facial Recognition Attendance** | Auto-attendance using facial recognition | PHP · MySQL · Facial Rec API |
-| 🍽️ **AI Menu Recommender** | Meal suggestions from image recognition (PWA) | Flask · Roboflow · Render |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://gh-readme-stats.vercel.app/api?username=JenxxAI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=JenxxAI&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JenxxAI&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JenxxAI&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JenxxAI/JenxxAI/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-### 📬 Connect
-
-<p align="left">
-  <a href="mailto:torjarica@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/JenxxAI"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://facebook.com/luke.emmanuel.7712"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:1D9E75&height=120&section=footer" />
-</p>
