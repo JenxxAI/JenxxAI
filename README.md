@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://carlos-torres-portfolio.vercel.app"><strong>Portfolio</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/carlos-miguel-torres-2644a9332/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:torjarica@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.facebook.com/JenxxAi">Facebook</a>
+  <a href="https://carlos-torres-portfolio.vercel.app"><img src="./assets/portfolio.svg" width="52" height="52" alt="Portfolio" title="Portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/carlos-miguel-torres-2644a9332/"><img src="./assets/linkedin.svg" width="52" height="52" alt="LinkedIn" title="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:torjarica@gmail.com"><img src="./assets/email.svg" width="52" height="52" alt="Email Carlos" title="Email Carlos" /></a>
+  &nbsp;
+  <a href="https://www.facebook.com/JenxxAi"><img src="./assets/facebook.svg" width="52" height="52" alt="Facebook" title="Facebook" /></a>
 </p>
 
 ## From the inside out.
@@ -43,7 +43,7 @@ Different tools, one habit: understand the problem before choosing the fix.
 | **Quality & investigation** | Manual and regression testing, test cases and evidence, Postman, Playwright, QApilot, Jira, Testpad, Android Studio, HTTP Toolkit, Swagger |
 | **Web & data** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, PHP, Python, MySQL, Supabase |
 | **Automation & delivery** | n8n workflows, test data automation, GitHub, Vercel |
-| **Creative work** | Freelance graphic design, visual experiments, workflow documentation |
+| **Creative work** | Canva · CapCut · Gemini · ChatGPT · Claude · Freelance graphic design |
 
 ## Things I'm building
 
@@ -87,7 +87,15 @@ A mix of side projects and concepts, connected by practical problems and local s
 Have a project, a tricky problem, or notes to compare?
 
 **[torjarica@gmail.com](mailto:torjarica@gmail.com)**  
-[LinkedIn](https://www.linkedin.com/in/carlos-miguel-torres-2644a9332/) · [Facebook](https://www.facebook.com/JenxxAi) · [Portfolio](https://carlos-torres-portfolio.vercel.app)
+<p align="center">
+  <a href="https://carlos-torres-portfolio.vercel.app"><img src="./assets/portfolio.svg" width="52" height="52" alt="Portfolio" title="Portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/carlos-miguel-torres-2644a9332/"><img src="./assets/linkedin.svg" width="52" height="52" alt="LinkedIn" title="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:torjarica@gmail.com"><img src="./assets/email.svg" width="52" height="52" alt="Email Carlos" title="Email Carlos" /></a>
+  &nbsp;
+  <a href="https://www.facebook.com/JenxxAi"><img src="./assets/facebook.svg" width="52" height="52" alt="Facebook" title="Facebook" /></a>
+</p>
 
 ---
 

@@ -1,6 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
   <title id="title">Carlos Miguel Torres</title>
   <desc id="desc">Hardware roots. Software curiosity. Building from the inside out.</desc>
+  <style>
+    .signal { stroke-dasharray: 16 100; animation: flow 7s linear infinite; }
+    .status { animation: breathe 4s ease-in-out infinite; }
+    @keyframes flow { to { stroke-dashoffset: -232; } }
+    @keyframes breathe { 0%,100% { opacity: .5; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .signal,.status { animation: none; } }
+  </style>
   <defs>
     <linearGradient id="accent" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#4B086D"/><stop offset="1" stop-color="#ACC0FE"/></linearGradient>
     <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#211629"/><stop offset="1" stop-color="#111218"/></linearGradient>
@@ -11,12 +18,15 @@
     <circle cx="1045" cy="162" r="148"/><circle cx="1045" cy="162" r="105"/>
     <path d="M865 162h325M1045 15v295"/>
   </g>
+  <g fill="none" stroke="#ACC0FE" stroke-width="3" opacity=".7" class="signal">
+    <circle cx="1045" cy="162" r="148"/><path d="M865 162h325"/>
+  </g>
   <g transform="translate(983 105)" fill="#20172e" stroke="#B6B9EF" stroke-width="2">
     <rect x="0" y="0" width="100" height="100" rx="13" transform="rotate(-12 50 50)"/>
     <rect x="22" y="22" width="56" height="56" rx="5" fill="url(#accent)"/>
     <path d="M34 12v10m16-10v10m16-10v10M34 78v10m16-10v10m16-10v10M12 34h10m-10 16h10m-10 16h10m56-32h10m-10 16h10m-10 16h10"/>
   </g>
-  <circle cx="58" cy="56" r="4" fill="#ACC0FE"/>
+  <circle class="status" cx="58" cy="56" r="4" fill="#ACC0FE"/>
   <text x="75" y="61" fill="#B5ADC1" font-family="Arial, sans-serif" font-size="13" letter-spacing="3">JENXXAI / PHILIPPINES</text>
   <text x="54" y="142" fill="#F3EFEB" font-family="Arial, sans-serif" font-weight="700" font-size="55" letter-spacing="-2">Carlos Miguel Torres</text>
   <text x="57" y="189" fill="#C3B5EA" font-family="Arial, sans-serif" font-size="25">Hardware roots. Software curiosity.</text>
